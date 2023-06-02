@@ -1,0 +1,43 @@
+@font-face 
+{
+    font-family: 'Death' ;
+    src: url(DEATH_FONT.TTF);
+}
+
+@font-face {
+    font-family:'note' ;
+    src: url(DEATHNOTE_Font/DEATHNOTEFont.ttf);
+}
+
+
+body {background-color: black;}
+
+
+
+h1 { 
+     text-align: center;
+     justify-content: center;
+    margin-top: -90px;
+}
+
+h2{
+    font-family: 'note';
+    font-weight: 1500;
+    text-align: center;
+    justify-content: center;
+    color: white;
+    padding: 30px;
+    font-size: 45px;
+
+
+}
+    
+.regras{
+    font-family: '';
+    font-weight: 900;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+}
